@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Sarvesh Pandey
-  
+- 👋 Hi, I’m SP 
 - ♦️ I’m currently learning some coding stuff
   
 - 👀 I’m looking forword to collaborate & contribute to projects that impact the internet.
